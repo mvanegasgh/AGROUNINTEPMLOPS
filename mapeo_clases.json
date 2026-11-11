@@ -1,0 +1,10 @@
+{
+  "cofia":   {"pos": ["hairnet", "hair-net", "cofia", "gorro"],
+              "neg": ["no-hairnet", "no-hair-net", "sin-cofia", "no-cofia", "nohairnet"]},
+  "guantes": {"pos": ["glove", "gloves", "guante", "guantes"],
+              "neg": ["no-glove", "no-gloves", "sin-guantes", "no-guantes", "noglove"]},
+  "bata":    {"pos": ["lab-coat", "labcoat", "bata", "coat", "medical-suit", "apron", "delantal"],
+              "neg": ["no-coat", "no-labcoat", "sin-bata", "no-bata"]},
+  "botas":   {"pos": ["boots", "boot", "botas", "bota", "safety-shoes", "shoes"],
+              "neg": ["no-boots", "no-shoes", "sin-botas", "no-bota"]}
+}

@@ -1,0 +1,23 @@
+[project]
+name = "agrointep-epp"
+version = "1.0.0"
+description = "Control de ingreso AGROINTEP: verificacion de cofia, guantes y bata en video en vivo"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "opencv-python>=4.9,<5",
+    "scikit-learn",
+    "joblib",
+    "mlflow",
+    "tensorflow>=2.16",
+    "requests",
+    "pyyaml",
+    "fastapi",
+    "uvicorn",
+    "python-multipart",
+]
+
+[tool.uv]
+package = false

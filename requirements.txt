@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+opencv-python>=4.9,<5
+scikit-learn
+joblib
+mlflow
+tensorflow>=2.16
+requests
+pyyaml
+fastapi
+uvicorn
+python-multipart

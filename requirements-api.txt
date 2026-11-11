@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+pandas
+opencv-python-headless>=4.9,<5
+scikit-learn
+joblib
+tensorflow-cpu>=2.16
